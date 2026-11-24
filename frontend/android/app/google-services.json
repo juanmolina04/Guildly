@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744453124956",
+    "project_id": "guildly-87dc4",
+    "storage_bucket": "guildly-87dc4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744453124956:android:406cd0c531a25adb08c799",
+        "android_client_info": {
+          "package_name": "com.tuempresa.guildly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDLbiXx-pXQHsJkVppk82Vjf_vvfka-tA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
